@@ -1,4 +1,4 @@
-package com.sid.spring.integration.transformers;
+package com.sid.spring.integration.core;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
