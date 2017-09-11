@@ -1,4 +1,4 @@
-package com.sid.spring.integration;
+package com.sid.spring.integration.transformers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
